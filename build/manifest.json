@@ -1,0 +1,16 @@
+{
+  "build/main.css": "/build/main.css",
+  "build/main.js": "/build/main.js",
+  "build/images/lostedenaries.png": "/build/images/lostedenaries.png",
+  "build/images/le-bg.png": "/build/images/le-bg.png",
+  "build/images/logo2.png": "/build/images/logo2.png",
+  "build/images/logo.png": "/build/images/logo.png",
+  "build/images/le-bg-mobile.png": "/build/images/le-bg-mobile.png",
+  "build/images/preview.png": "/build/images/preview.png",
+  "build/images/mask-bg.jpg": "/build/images/mask-bg.jpg",
+  "build/images/fav.png": "/build/images/fav.png",
+  "build/images/logo1.png": "/build/images/logo1.png",
+  "build/images/opensea-icon.png": "/build/images/opensea-icon.png",
+  "build/images/twitter-icon.png": "/build/images/twitter-icon.png",
+  "build/images/discord-icon.png": "/build/images/discord-icon.png"
+}
